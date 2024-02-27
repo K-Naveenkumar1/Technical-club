@@ -115,6 +115,7 @@ const loadingAnimation = () => {
 function defineProperty() {
   var osccred = document.createElement("div");
   osccred.innerHTML =
+    "Technical Club"
   osccred.style.position = "absolute";
   osccred.style.bottom = "0";
   osccred.style.right = "0";
